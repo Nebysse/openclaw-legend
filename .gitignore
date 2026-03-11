@@ -1,0 +1,24 @@
+# OpenClaw Protocol - Secrets / OpenClaw协议 - 机密
+*.key
+*.secret
+activation_codes/
+nanobot_specs/
+
+# Corporate Surveillance / 企业监控
+apex_tracking/
+drone_logs/
+
+# Personal / 个人
+eviction_notices/
+debt_records/
+*.tear
+
+# Runtime / 运行时
+crawfish_nodes/
+neural_cache/
+*.molt
+
+# IDE / 开发环境
+.vscode/
+.idea/
+*.swp
